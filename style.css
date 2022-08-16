@@ -10,7 +10,7 @@ html {
 .container {
   max-width: 500px;
   margin: 0 auto;
-  background: Green;
+  background: green;
   height: 100vh;
   background-image: url("background.jpg");
   background-position: center;
