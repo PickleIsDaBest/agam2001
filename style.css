@@ -37,7 +37,7 @@ html {
   font-size: 1.8em;
   font-weight: 900;
   letter-spacing: 2px;
-  color: #2F4F4F;
+  color: #C0C0C0;
   text-transform: capitalize;
   text-align: center;
 }
@@ -72,6 +72,6 @@ html {
 }
 
 .footer>i {
-  color: black;
+  color: Azure;
   font-size: 20px;
 }
