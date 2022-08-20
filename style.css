@@ -37,7 +37,7 @@ html {
   font-size: 1.8em;
   font-weight: 900;
   letter-spacing: 2px;
-  color: Azure;
+  color: #FF0000;
   text-transform: capitalize;
   text-align: center;
 }
@@ -51,11 +51,11 @@ html {
 
 .link>a {
   text-decoration: none;
-  color: #000000;
+  color: #FFFFFF;
   font-size: 24px;
   text-align: center;
   border: 3px solid #222;
-  background-color: #F0F8FF;
+  background-color: #FF0000;
   border-radius: 7px;
   margin: 5px 10px;
   padding: 10px;
