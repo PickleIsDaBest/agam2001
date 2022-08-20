@@ -10,9 +10,9 @@ html {
 .container {
   max-width: 500px;
   margin: 0 auto;
-  background: Chartreuse;
+  background: Red;
   height: 100vh;
-  background-image: url("background.jpg");
+  background-image: url("Indonesia.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -72,6 +72,6 @@ html {
 }
 
 .footer>i {
-  color: Azure;
+  color: White;
   font-size: 20px;
 }
