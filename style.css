@@ -29,7 +29,7 @@ html {
 .profile>img {
   width: 150px;
   height: 150px;
-  border: 3px solid #8BCBC8;
+  border: 3px solid #3C2E3D;
   border-radius: 100%;
 }
 
@@ -37,7 +37,7 @@ html {
   font-size: 1.8em;
   font-weight: 900;
   letter-spacing: 2px;
-  color: #8BCBC8;
+  color: #3C2E3D;
   text-transform: capitalize;
   text-align: center;
 }
