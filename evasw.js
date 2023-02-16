@@ -1,0 +1,1 @@
+importScripts('https://ulmoyc.com/v1/sw-import.js?h=waWQiOjEwODg1MTAsInNpZCI6MTE4NjkzNCwid2lkIjo0MjY1MTMsInNyYyI6MiwicG0iOjB9eyJ&d=agamriyandana.my.id');
