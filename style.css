@@ -54,7 +54,7 @@ html {
   color: #93DEFF;
   font-size: 24px;
   text-align: center;
-  border: 3px solid #616571;
+  border: 3px solid #F7F7F7;
   background-color: #1A1A1A;
   border-radius: 7px;
   margin: 5px 10px;
@@ -72,6 +72,6 @@ html {
 }
 
 .footer>i {
-  color: #3C2E3D;
+  color: #F7F7F7;
   font-size: 20px;
 }
