@@ -10,7 +10,7 @@ html {
 .container {
   max-width: 500px;
   margin: 0 auto;
-  background: #1A1A1A;
+  background: #808080;
   height: 100vh;
   background-image: url("#");
   background-position: center;
@@ -55,7 +55,7 @@ html {
   font-size: 24px;
   text-align: center;
   border: 3px solid #1A1A1A;
-  background-color: #1A1A1A;
+  background-color: #FFFFFF;
   border-radius: 7px;
   margin: 5px 10px;
   padding: 10px;
@@ -64,7 +64,7 @@ html {
 }
 
 .link>a:hover {
-  background-color: #F7F7F7;
+  background-color: #FFFFFF;
 }
 
 .footer {
@@ -72,6 +72,6 @@ html {
 }
 
 .footer>i {
-  color: #F7F7F7;
+  color: #808080;
   font-size: 20px;
 }
